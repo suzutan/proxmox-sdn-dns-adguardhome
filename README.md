@@ -15,7 +15,7 @@ This plugin allows Proxmox VE to automatically create and delete DNS records in 
 
 ## Requirements
 
-- Proxmox VE 8.x or later
+- Proxmox VE 9.x or later ( tested on PVE 9.0.11)
 - AdGuard Home with API access enabled
 - Network configured with Proxmox SDN
 
